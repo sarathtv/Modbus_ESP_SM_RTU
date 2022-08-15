@@ -1,4 +1,5 @@
 # Modbus Communication with Schneider EM6436 Smart Meter using NodeMCU ESP8266
+ ![alt text](https://github.com/sarathtv/Modbus_ESP_SM_RTU/blob/master/SM_NMCU.png)
 * Connection Details
 
 |     NodeMCU ESP8266 |     RS485 -TTL adapter |
